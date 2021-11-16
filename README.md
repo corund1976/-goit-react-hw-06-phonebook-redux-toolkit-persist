@@ -1,1 +1,1 @@
-# -goit-react-hw-06-phonebook-redux-toolkit-persist
+# goit-react-hw-06-phonebook-redux-toolkit-persist
